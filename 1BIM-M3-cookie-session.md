@@ -27,6 +27,28 @@ Usando os dois juntos, o sistema fica mais completo.
 Cada um é usado naquilo que faz melhor.
 
 
+## 📝 Exercício 3 — Teste com Cookies
+
+Quando executamos pela primeira vez, o cookie ainda não aparece porque ele só funciona na próxima requisição.  
+Depois que atualizamos a página, o navegador já envia o cookie e ele aparece.  
+Nas ferramentas do navegador, dá pra ver o cookie salvo.  
+Quando apagamos os cookies e atualizamos, tudo começa de novo.  
+Ou seja, o cookie é criado, mas só aparece depois de atualizar.  
+Isso acontece por causa do funcionamento entre navegador e servidor.  
+É um processo de envio e resposta.
+
+
+## 📝 Exercício 4 — Uso de Sessions na Autenticação
+
+Sessions são mais usadas em login porque são mais seguras.  
+Os dados ficam no servidor e não podem ser alterados pelo usuário.  
+O navegador recebe só um identificador da sessão.  
+Já os cookies podem ser modificados ou até roubados.  
+Com sessions, fica mais fácil controlar quem está logado.  
+Também dá pra encerrar o acesso com mais segurança no logout.  
+Por isso, elas são melhores para sistemas com dados importantes.
+
+
 ## 📚 Referências
 
 - https://www.php.net/manual/pt_BR/  
