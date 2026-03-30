@@ -25,3 +25,9 @@ Os cookies podem ser usados para guardar preferências, como idioma ou tema do s
 Também podem servir para lembrar o usuário, mas sem guardar dados importantes.  
 Usando os dois juntos, o sistema fica mais completo.  
 Cada um é usado naquilo que faz melhor.
+
+
+## 📚 Referências
+
+- https://www.php.net/manual/pt_BR/  
+- https://www.php.net/manual/pt_BR/function.setcookie.php  
