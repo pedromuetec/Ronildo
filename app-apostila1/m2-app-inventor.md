@@ -77,8 +77,8 @@ Assim, vamos elaborar um aplicativo que irá navegar em três telas diferentes.
 
 ### Print das telas dos Blocos
 ![Blocos Projeto 5](imagens/projeto5inicio_blocos.png)
-![Blocos Projeto 5](imagens/projeto5_tela1.png)
-![Blocos Projeto 5](imagens/projeto5_tela2.png) 
+![Blocos Projeto 5](imagens/projeto5tela1_blocos.png)
+![Blocos Projeto 5](imagens/projeto5tela2_blocos.png) 
 
 
 ## Projeto 6: Sexto Aplicativo
