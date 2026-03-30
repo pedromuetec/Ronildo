@@ -41,12 +41,13 @@ Isso acontece por causa do funcionamento entre navegador e servidor.
 ## Exercício 4: Uso de Sessions na Autenticação
 
 Sessions são mais usadas em login porque são mais seguras.  
-Os dados ficam no servidor e não podem ser alterados pelo usuário.  
-O navegador recebe só um identificador da sessão.  
-Já os cookies podem ser modificados ou até roubados.  
-Com sessions, fica mais fácil controlar quem está logado.  
-Também dá pra encerrar o acesso com mais segurança no logout.  
-Por isso, elas são melhores para sistemas com dados importantes.
+Os dados ficam armazenados no servidor, o que impede o usuário de alterar diretamente essas informações.  
+O navegador recebe apenas um ID de sessão, que serve para identificar o usuário.  
+Isso reduz muito o risco de manipulação de dados.  
+Já os cookies podem ser modificados, roubados ou até falsificados, o que pode causar problemas de segurança.  
+Outro ponto importante é que, com sessions, o sistema consegue encerrar o acesso facilmente no logout.  
+Também é possível definir tempo de expiração e controlar melhor o acesso do usuário.  
+Por isso, em sistemas com dados sensíveis, como login e informações pessoais, sessions são muito mais confiáveis.  
 
 
 ## Referências
@@ -54,4 +55,6 @@ Por isso, elas são melhores para sistemas com dados importantes.
 - https://www.php.net/manual/pt_BR/  
 - https://www.php.net/manual/pt_BR/function.setcookie.php
 - https://www.php.net/manual/pt_BR/book.session.php  
-- https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies  
+- https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies
+- https://www.w3schools.com/php/php_sessions.asp  
+- https://www.w3schools.com/php/php_cookies.asp  
