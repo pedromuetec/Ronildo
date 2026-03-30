@@ -71,10 +71,14 @@ Nessa aplicação, a ideia é inserir telas adicionais na tela principal (Screen
 Assim, vamos elaborar um aplicativo que irá navegar em três telas diferentes.  
 
 ### Print das telas do Design
-![Design Projeto 5](imagens/projeto5_design.png)  
+![Design Projeto 5](imagens/projeto5inicio_design.png)  
+ ![Design Projeto 5](imagens/projeto5tela1_design.png)  
+ ![Design Projeto 5](imagens/projeto5tela2_design.png)  
 
 ### Print das telas dos Blocos
-![Blocos Projeto 5](imagens/projeto5_blocos.png) 
+![Blocos Projeto 5](imagens/projeto5inicio_blocos.png)
+![Blocos Projeto 5](imagens/projeto5_tela1.png)
+![Blocos Projeto 5](imagens/projeto5_tela2.png) 
 
 
 ## Projeto 6: Sexto Aplicativo
