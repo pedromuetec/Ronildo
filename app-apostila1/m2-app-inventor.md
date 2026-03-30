@@ -12,7 +12,7 @@
 ### Descrição
 Tem como objetivo utilizar um botão para que quando clicado apareça a frase “Hello world”  
 
-Ao clicar em “Clique aqui!!” a frase aparece, ao clicar em limpar a frase é apagada  
+Ao clicar em “Clique aqui!!” a frase aparecerá e ao clicar em limpar a mesma será apagada  
 Alteramos as cores do botão para que eles sejam mais chamativo  
 
 ### Print das telas do Design
@@ -67,8 +67,8 @@ Nesse aplicativo vamos utilizar o recurso da câmera do celular para tirar uma f
 ## Projeto 5: Quinto Aplicativo
 
 ### Descrição
-Nessa aplicação, a ideia é inserir telas adicionais na tela principal (Screen1).  
-Assim, vamos elaborar um aplicativo que irá navegar em três telas diferentes.  
+Nesse aplicativo, a ideia é inserir telas adicionais na tela principal (Screen1).  
+Com isso, podemos elaborar um aplicativo que irá navegar em três telas diferentes.  
 
 ### Print das telas do Design
 ![Design Projeto 5](imagens/projeto5inicio_design.png)  
