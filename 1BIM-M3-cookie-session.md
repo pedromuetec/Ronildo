@@ -52,4 +52,6 @@ Por isso, elas são melhores para sistemas com dados importantes.
 ## 📚 Referências
 
 - https://www.php.net/manual/pt_BR/  
-- https://www.php.net/manual/pt_BR/function.setcookie.php  
+- https://www.php.net/manual/pt_BR/function.setcookie.php
+- https://www.php.net/manual/pt_BR/book.session.php  
+- https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cookies  
