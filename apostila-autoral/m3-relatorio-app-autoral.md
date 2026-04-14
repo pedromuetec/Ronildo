@@ -99,13 +99,13 @@ O aplicativo foi desenvolvido no App Inventor e possui uma interface organizada 
 # Print das telas dos Blocos  
 
 ## Tela Inicial  
-![Blocos Inicial](imagens/blocos1.png)
+![Blocos Inicial](imagens/bloco1.png)
 
 ## Tela Guerras  
-![Blocos Guerras](imagens/blocos2.png)
+![Blocos Guerras](imagens/bloco2.png)
 
 ## Tela Motivos  
-![Blocos Motivos](imagens/blocos3.png)
+![Blocos Motivos](imagens/bloco3.png)
 
 ## Tela Consequências  
-![Blocos Consequências](imagens/blocos4.png)
+![Blocos Consequências](imagens/bloco4.png)
