@@ -44,3 +44,52 @@ Durante o desenvolvimento do aplicativo, foram aplicados diversos conceitos estu
 - Navegação entre telas (open another screen)  
 - Organização lógica do aplicativo  
 - Interação com o usuário  
+## Componentes utilizados  
+
+- Botões  
+- Labels (textos)  
+- Imagens  
+- Layouts de organização  
+- Blocos de programação para navegação e lógica  
+
+## Diferenciais do projeto  
+
+O aplicativo apresenta uma proposta útil e prática para o dia a dia, incluindo:
+
+- Interface simples e intuitiva  
+- Organização das ofertas em telas específicas  
+- Navegação fácil entre as telas  
+- Aplicação prática dos conceitos aprendidos  
+- Foco em utilidade para o usuário  
+
+
+
+# Print das telas do Design  
+
+## Tela Inicial  
+![Tela Inicial - Design](imagens/tela_inicial_design.png)  
+
+## Tela Menu  
+![Menu - Design](imagens/tela_menu_design.png)  
+
+## Tela de Ofertas  
+![Ofertas - Design](imagens/tela_ofertas_design.png)  
+
+## Tela de Informações  
+![Informações - Design](imagens/tela_info_design.png)  
+
+
+
+# Print das telas dos Blocos  
+
+## Tela Inicial  
+![Blocos Inicial](imagens/blocos_inicial.png)  
+
+## Tela Menu  
+![Blocos Menu](imagens/blocos_menu.png)  
+
+## Tela Ofertas  
+![Blocos Ofertas](imagens/blocos_ofertas.png)  
+
+## Tela Informações  
+![Blocos Informações](imagens/blocos_info.png)  
