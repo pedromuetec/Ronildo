@@ -15,7 +15,7 @@ Pedro Boriero
 # Projeto  
 
 ## Título  
-Aplicativo de Ofertas e Promoções  
+Aplicativo das 
 
 ## Descrição  
 
@@ -33,63 +33,104 @@ O aplicativo possui uma tela inicial simples, que direciona o usuário para um m
 - Tela de Informações: exibe detalhes sobre as ofertas, como descrição e possíveis vantagens.  
 
 - Interação: o usuário pode clicar nos botões para navegar entre as telas e visualizar os conteúdos disponíveis.  
+Pedro Boriero  
+
+---
+
+# Projeto  
+
+## Título  
+Aplicativo sobre Guerras no Oriente Médio  
+
+## Descrição  
+
+O objetivo do aplicativo é apresentar informações educativas sobre as principais guerras e conflitos no Oriente Médio, abordando suas causas, acontecimentos e consequências de forma simples e acessível.
+
+O aplicativo foi desenvolvido no App Inventor e possui uma interface organizada em diferentes telas, permitindo ao usuário navegar facilmente entre os conteúdos. A proposta é facilitar o entendimento de temas históricos e geopolíticos por meio de uma navegação intuitiva.
+
+---
+
+## Funcionamento do aplicativo  
+
+- **Tela Inicial (Screen1):**  
+  Apresenta o título "Principais guerras e conflitos" e opções de navegação. O usuário pode acessar conteúdos sobre guerras específicas e os principais motivos dos conflitos.
+
+- **Tela de Guerras (Screen2):**  
+  Mostra informações detalhadas sobre conflitos importantes, como:  
+  - Israel x Palestina  
+  - Guerra Civil da Síria  
+  - Guerra do Iraque  
+
+- **Tela de Motivos (Screen3):**  
+  Explica as principais causas das guerras no Oriente Médio, como:  
+  - Disputa por território  
+  - Petróleo e recursos naturais  
+  - Diferenças religiosas  
+
+- **Tela de Consequências (Screen4):**  
+  Apresenta os impactos das guerras, incluindo:  
+  - Mortes e destruição  
+  - Crise de refugiados  
+  - Problemas econômicos  
+  - Instabilidade mundial  
+
+- **Interação:**  
+  O usuário navega entre as telas por meio de botões, acessando diferentes conteúdos informativos.
 
 ## Conceitos utilizados  
 
-Durante o desenvolvimento do aplicativo, foram aplicados diversos conceitos estudados na apostila, como:
-
-- Criação de interface gráfica (Design das telas)  
+- Criação de interface gráfica (design das telas)  
 - Programação em blocos no App Inventor  
 - Uso de eventos de clique (botões)  
 - Navegação entre telas (open another screen)  
-- Organização lógica do aplicativo  
-- Interação com o usuário  
+- Organização de conteúdo informativo  
+
+
+
 ## Componentes utilizados  
 
 - Botões  
 - Labels (textos)  
-- Imagens  
 - Layouts de organização  
-- Blocos de programação para navegação e lógica  
+- Blocos de programação  
+
 
 ## Diferenciais do projeto  
 
-O aplicativo apresenta uma proposta útil e prática para o dia a dia, incluindo:
-
+- Conteúdo educativo e relevante  
 - Interface simples e intuitiva  
-- Organização das ofertas em telas específicas  
-- Navegação fácil entre as telas  
-- Aplicação prática dos conceitos aprendidos  
-- Foco em utilidade para o usuário  
+- Navegação fácil entre telas  
+- Organização por categorias  
+- Aplicação prática dos conhecimentos  
 
 
 
 # Print das telas do Design  
 
 ## Tela Inicial  
-![Tela Inicial - Design](imagens/tela_inicial_design.png)  
+![Tela Inicial](imagens/tela1.png)
 
-## Tela Menu  
-![Menu - Design](imagens/tela_menu_design.png)  
+## Tela de Guerras  
+![Tela Guerras](imagens/tela2.png)
 
-## Tela de Ofertas  
-![Ofertas - Design](imagens/tela_ofertas_design.png)  
+## Tela de Motivos  
+![Tela Motivos](imagens/tela3.png)
 
-## Tela de Informações  
-![Informações - Design](imagens/tela_info_design.png)  
+## Tela de Consequências  
+![Tela Consequências](imagens/tela4.png)
 
 
 
 # Print das telas dos Blocos  
 
 ## Tela Inicial  
-![Blocos Inicial](imagens/blocos_inicial.png)  
+![Blocos Inicial](imagens/blocos1.png)
 
-## Tela Menu  
-![Blocos Menu](imagens/blocos_menu.png)  
+## Tela Guerras  
+![Blocos Guerras](imagens/blocos2.png)
 
-## Tela Ofertas  
-![Blocos Ofertas](imagens/blocos_ofertas.png)  
+## Tela Motivos  
+![Blocos Motivos](imagens/blocos3.png)
 
-## Tela Informações  
-![Blocos Informações](imagens/blocos_info.png)  
+## Tela Consequências  
+![Blocos Consequências](imagens/blocos4.png)
