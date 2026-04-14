@@ -12,30 +12,6 @@ Murilo Lazzarini
 Pedro Boriero  
 
 
-# Projeto  
-
-## Título  
-Aplicativo das 
-
-## Descrição  
-
-O objetivo do aplicativo é apresentar ofertas e promoções de forma prática e acessível, permitindo que os usuários encontrem oportunidades de compra com facilidade através de um aplicativo mobile desenvolvido no App Inventor.
-
-O aplicativo possui uma tela inicial simples, que direciona o usuário para um menu principal. A partir do menu, o usuário pode acessar diferentes áreas do aplicativo relacionadas às ofertas disponíveis.
-
-### Funcionamento do aplicativo  
-
-- Tela Inicial: possui um botão que leva ao menu principal.  
-- Menu: permite navegar entre as telas de ofertas e informações.  
-
-- Tela de Ofertas: apresenta diferentes promoções e oportunidades de compra, organizadas de forma clara para o usuário.  
-
-- Tela de Informações: exibe detalhes sobre as ofertas, como descrição e possíveis vantagens.  
-
-- Interação: o usuário pode clicar nos botões para navegar entre as telas e visualizar os conteúdos disponíveis.  
-Pedro Boriero  
-
----
 
 # Projeto  
 
@@ -48,7 +24,6 @@ O objetivo do aplicativo é apresentar informações educativas sobre as princip
 
 O aplicativo foi desenvolvido no App Inventor e possui uma interface organizada em diferentes telas, permitindo ao usuário navegar facilmente entre os conteúdos. A proposta é facilitar o entendimento de temas históricos e geopolíticos por meio de uma navegação intuitiva.
 
----
 
 ## Funcionamento do aplicativo  
 
