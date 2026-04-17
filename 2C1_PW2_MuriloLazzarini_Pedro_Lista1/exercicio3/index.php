@@ -1,6 +1,6 @@
 <!--
 Data: 06/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor: Murilo Lazzarini e Pedro Boriero
 Objetivo: Progredir na linguagem de PHP.
 
 Exercício 3 - Calculadora Aritmética
