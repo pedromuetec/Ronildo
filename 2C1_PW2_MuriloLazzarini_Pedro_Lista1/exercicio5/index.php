@@ -1,6 +1,6 @@
 <!--
 Data: 06/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor: Murilo Lazzarini e Pedro Boriero
 Objetivo:Desenvolver um programa que leia 5 números inteiros,
 calcule o fatorial de cada um deles e apresente a soma total desses fatoriais.
 
