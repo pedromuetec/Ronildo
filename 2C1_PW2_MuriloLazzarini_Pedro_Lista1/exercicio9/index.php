@@ -1,6 +1,6 @@
 <!--
 Data: 06/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor:  Murilo Lazzarini e Pedro Boriero
 Objetivo: Desenvolver um programa que utilize uma função 
 para calcular e retornar a média aritmética de uma lista de números reais informados pelo usuário.
 
