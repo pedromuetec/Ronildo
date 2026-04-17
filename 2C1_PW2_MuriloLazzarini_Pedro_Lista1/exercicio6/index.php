@@ -1,6 +1,6 @@
 <!--
 Data: 09/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor:  Murilo Lazzarini e Pedro Boriero
 Objetivo: Desenvolver um programa que leia um valor 
 e mostre os termos da sequência Fibonacci.
 
