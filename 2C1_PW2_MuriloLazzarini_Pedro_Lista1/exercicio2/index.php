@@ -1,6 +1,6 @@
 <!--
 Data: 06/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor: Murilo Lazzarini e Pedro Boriero
 Objetivo:Desenvolver um programa que leia um valor de temperatura e um caractere indicando a unidade (C ou F)
 e realize a conversão para a outra unidade.
 
