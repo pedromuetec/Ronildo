@@ -1,6 +1,6 @@
 <!--
 Data: 06/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor: Murilo Lazzarini e Pedro Boriero
 Objetivo:Desenvolver um programa que leia um número e verifique se ele está dentro do intervalo 
 entre 100 e 200, informando o resultado ao usuário.
 
