@@ -1,6 +1,6 @@
 <!--
 Data: 06/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor: Murilo Lazzarini e Pedro Boriero
 Objetivo: Desenvolver um programa que leia 8 números 
 inteiros e os separe em dois grupos: números positivos e números negativos.
 
