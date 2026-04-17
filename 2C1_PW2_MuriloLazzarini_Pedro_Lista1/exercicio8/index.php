@@ -1,6 +1,6 @@
 <!--
 Data: 09/03/2026
-Autor: Larissa Ribeiro e Maria Luisa Gibrail
+Autor:  Murilo Lazzarini e Pedro Boriero
 Objetivo: Desenvolver um programa que crie uma função soma(n) 
 que retorne a soma de 0 até o número informado.
 
