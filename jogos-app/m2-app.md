@@ -27,7 +27,8 @@ Ao pressionar o botão disponível na tela, o sistema realiza um sorteio aleató
 
 ### Print das telas
 
-![Tela DadoMagic](imagens/figura1.png)
+![Tela DadoMagic]<img width="382" height="650" alt="image" src="https://github.com/user-attachments/assets/1cd4bb80-c7ba-4bca-bdbb-94756f04cd31" />
+
 
 ### Print dos blocos
 
